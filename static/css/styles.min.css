@@ -964,7 +964,7 @@ footer {
         font-size: 18px; } }
   .popup-info__list {
     padding: 0 20px;
-    overflow: auto; }
+     }
   .popup-info__item {
     list-style-type: decimal; }
     .popup-info__item:not(:last-child) {
